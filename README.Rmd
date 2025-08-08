@@ -16,18 +16,17 @@ knitr::opts_chunk$set(
 # mixedprofileproject
 
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
-[![CRAN status](https://www.r-pkg.org/badges/version/mixedprofileproject)](https://CRAN.R-project.org/package=mixedprofileproject)
 <!-- badges: end -->
 
 The goal of mixedprofileproject is to ...
 
 ## Installation
 
-You can install the development version of mixedprofileproject like so:
+You can install the development version of mixedprofileproject from [GitHub](https://github.com/) with:
 
 ``` r
-# FILL THIS IN! HOW CAN PEOPLE INSTALL YOUR DEV PACKAGE?
+# install.packages("pak")
+pak::pak("fabern/mixedprofileproject")
 ```
 
 ## Example
