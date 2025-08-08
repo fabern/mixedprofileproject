@@ -13,3 +13,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
 Imports: 
     Rcpp
+URL: https://github.com/fabern/mixedprofileproject
+BugReports: https://github.com/fabern/mixedprofileproject/issues
